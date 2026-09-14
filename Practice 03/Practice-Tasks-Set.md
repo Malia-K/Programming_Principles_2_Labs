@@ -1,5 +1,5 @@
 ### LAB 3
-Deadline 2 october 23:59
+
 
 ## Python Classes
 
