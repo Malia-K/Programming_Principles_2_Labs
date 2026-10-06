@@ -48,7 +48,7 @@ Read and complete the W3Schools sections for file handling and built-in function
 3. Use `enumerate()` and `zip()` for paired iteration
 4. Demonstrate type checking and conversions
 
-** Exercises with both directories and File Handling**
+**Exercises with both directories and File Handling**:
 1. Write a Python program to list only directories, files and all directories, files in a specified path. 
 2. Write a Python program to check for access to a specified path. Test the existence, readability, writability and executability of the specified path
 3. Write a Python program to test whether a given path exists or not. If the path exist find the filename and directory portion of the given path. 
